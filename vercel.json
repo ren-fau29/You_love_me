@@ -1,0 +1,7 @@
+{
+  "builds": [
+    { "src": "index.html", "use": "@vercel/static" },
+    { "src": "do_you_love_me.css", "use": "@vercel/static" },
+    { "src": "do_you_love_me.js", "use": "@vercel/static" }
+  ]
+}
